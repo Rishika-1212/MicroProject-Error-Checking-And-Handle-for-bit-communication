@@ -40,7 +40,7 @@ This project is an interactive **Error Detection & Correction Simulation** that 
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rishika-1212/MicroProject-Error-Checking-And-Handle-fro-bit-communication.git
+   git clone https://github.com/Rishika-1212/MicroProject-Error-Checking-And-Handle-for-bit-communication.git
    ```
 2. Navigate to the project directory:
    ```bash
